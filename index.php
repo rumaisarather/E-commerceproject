@@ -100,7 +100,7 @@ include("connection.php");
                                     <i class="fas fa-star"></i>
                                   </div>
                                     <h3>$ <?php echo $product_price; ?></h3>
-                                    <a href="<?php echo "https://localhost/rumi/views/single-product.php?product_id=". $row['product_id']; ?>" class="btn btn-danger">BUY NOW</a>                    
+                                    <a href="<?php echo "single-product.php?product_id=". $row['product_id']; ?>" class="btn btn-danger">BUY NOW</a>                    
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@ include("connection.php");
                                     <i class="fas fa-star"></i>
                                      </div>
                                         <h3>$<?php echo $product_price; ?></h3>
-                                        <a href="<?php echo "https://localhost/rumi/views/single-product2.php?product_id=". $row['product_id']; ?>" class="btn btn-danger">BUY NOW</a>
+                                        <a href="<?php echo "single-product2.php?product_id=". $row['product_id']; ?>" class="btn btn-danger">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -170,7 +170,7 @@ include("connection.php");
   </div>
 </nav>
         <?php
-        include("../fragment/footer.php");
+        include("footer.php");
         ?>
        
 
