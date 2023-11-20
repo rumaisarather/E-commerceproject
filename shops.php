@@ -1,5 +1,5 @@
 <?php
-   include("../fragment/header.php");
+   include("header.php");
    ?>
 
     <div class="container-fluid">
@@ -44,7 +44,7 @@
                                 <div class="d-flex justify-content-around mb-3">
                                     <h3>1200$</h3>
                                     
-                                    <a href="https://localhost/rumi/views/single-product.php" class="btn btn-danger">BUY NOW</a>
+                                    <a href="single-product.php" class="btn btn-danger">BUY NOW</a>
                     
                                 </div>
                             </div>
@@ -64,7 +64,7 @@
 </div>
                                      <div class="d-flex justify-content-around mb-5">
                                         <h3>1600$</h3>
-                                        <a href="https://localhost/rumi/views/single-product.php" class="btn btn-danger">BUY NOW</a>
+                                        <a href="single-product.php" class="btn btn-danger">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -83,7 +83,7 @@
 </div>
                                      <div class="d-flex justify-content-around mb-5">
                                         <h3>2000$</h3>
-                                        <a href="https://localhost/rumi/views/single-product.php" class="btn btn-danger">BUY NOW</a>
+                                        <a href="single-product.php" class="btn btn-danger">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -103,7 +103,7 @@
 </div>
                                          <div class="d-flex justify-content-around mb-5">
                                             <h3>2000$</h3>
-                                            <a href="https://localhost/rumi/views/single-product.php" class="btn btn-danger">BUY NOW</a>
+                                            <a href="single-product.php" class="btn btn-danger">BUY NOW</a>
                                         </div>
                                     </div>
                                 </div>
@@ -127,7 +127,7 @@
 </div>
                                      <div class="d-flex justify-content-around mb-5">
                                         <h3>2000$</h3>
-                                        <a href="https://localhost/rumi/views/single-product.php" class="btn btn-danger">BUY NOW</a>
+                                        <a href="single-product.php" class="btn btn-danger">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -146,7 +146,7 @@
 </div>
                                  <div class="d-flex justify-content-around mb-5">
                                     <h3>2300$</h3>
-                                    <a href="https://localhost/rumi/views/single-product.php" class="btn btn-danger">BUY NOW</a>
+                                    <a href="single-product.php" class="btn btn-danger">BUY NOW</a>
                                 </div>
                             </div>
                         </div>
@@ -165,7 +165,7 @@
 </div>
                              <div class="d-flex justify-content-around mb-5">
                                 <h3>2300$</h3>
-                                <a href="https://localhost/rumi/views/single-product.php" class="btn btn-danger">BUY NOW</a>
+                                <a href="single-product.php" class="btn btn-danger">BUY NOW</a>
                             </div>
                         </div>
                     </div>
@@ -184,7 +184,7 @@
 </div>
                          <div class="d-flex justify-content-around mb-5">
                             <h3>2300$</h3>
-                            <a href="https://localhost/rumi/views/single-product.php" class="btn btn-danger">BUY NOW</a>
+                            <a href="single-product.php" class="btn btn-danger">BUY NOW</a>
                         </div>
                     </div>
                 </div>
@@ -209,5 +209,5 @@
 </nav>
 
 <?php
-        include("../fragment/footer.php");
+        include("footer.php");
         ?>
