@@ -1,11 +1,11 @@
 <?php 
-include("../backend/connection.php");
+include("connection.php");
 ?>
 
 
 
 <?php
-   include("../fragment/header.php");
+   include("header.php");
    ?>
 
    <!-- <---carousel--->
