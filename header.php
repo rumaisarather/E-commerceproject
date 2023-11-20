@@ -21,21 +21,21 @@
     <div class="collapse navbar-collapse nav-buttons" id="navbarSupportedContent">
       <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" href="https://localhost/rumi/views/index.php" target="blank">Home</a>
+          <a class="nav-link active" href="index.php" target="blank">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://localhost/rumi/views/shops.php" target="blank">Shops</a>
+          <a class="nav-link" href="shops.php" target="blank">Shops</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://localhost/rumi/views/blogs.php" target="blank">Blogs</a>
+          <a class="nav-link" href="blogs.php" target="blank">Blogs</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://localhost/rumi/views/contact.php" target="blank">Contact
+          <a class="nav-link" href="contact.php" target="blank">Contact
           </a>
         </li>
         <li class="nav-item">
-          <a href="https://localhost/rumi/views/cart.php"><i class="fas fa-shopping-cart"></i></a>
-          <a href="https://localhost/rumi/views/account.php"><i class="fas fa-user"></i></a>
+          <a href="cart.php"><i class="fas fa-shopping-cart"></i></a>
+          <a href="account.php"><i class="fas fa-user"></i></a>
         </li>
     </div>
   </div>
