@@ -27,7 +27,7 @@ else{
     header('location:https://localhost/rumi/views/index.php');
  }
 ?>
-  
+  <!-- single-product section starts  -->
 <section class="container single-product my-3 pt-3">
     <div class="row mt-3">
          <div class="col-lg-5 col-md-6 col-sm-12">
@@ -74,7 +74,7 @@ else{
 </div>
 </section>
 
-
+<!-- single- product section ends  -->
 <script>
     var mainImg = document.getElementById("mainImg");
     var smallImg = document.getElementsByClassName("small-img");
