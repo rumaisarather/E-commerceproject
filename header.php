@@ -11,7 +11,8 @@
         <link rel="stylesheet" href="ecommerce.css"/>
 </head>
 <body>
-
+<!-- header section starts  -->
+    
    <nav class="navbar navbar-expand-lg navbar-dark bg-danger py-3">
    <div class="container-fluid p-0 m-0 ">
     <a class="navbar-brand" href="#">Trends!</a>
@@ -34,12 +35,12 @@
           </a>
         </li>
         <li class="nav-item">
-          <a href="cart.php"><i class="fas fa-shopping-cart"></i></a>
           <a href="account.php"><i class="fas fa-user"></i></a>
         </li>
     </div>
   </div>
 </nav>
 
+<!-- header section ends  -->
 
 
