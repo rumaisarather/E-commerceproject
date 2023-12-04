@@ -1,14 +1,10 @@
 <?php 
 include("connection.php");
 ?>
-
-
-
 <?php
    include("header.php");
    ?>
-
-   <!-- <---carousel--->
+<!-- carousel section starts  -->
 <div class="py-3">
     <div class="container-fluid">
         <div class="row">
@@ -55,8 +51,9 @@ include("connection.php");
 </div>
 </div>
 </div>
+<!-- carousel section ends  -->
 
-<!-- <---brands--->
+<!-- brands section starts--->
 <section id="brand" class="container">
     <div class="row">
         <img class="img-fluid col-lg-3 col-md-6 col-sm-12" src="../images/brand1.jpg"/>
@@ -65,9 +62,10 @@ include("connection.php");
         <img class="img-fluid col-lg-3 col-md-6 col-sm-12" src="../images/brand4.png"/>
 </div>
 </section>
+<!-- brand section ends -->
 
 
-<!-- <---latest--->
+<!--latest section starts--->
 <section id="latest" class="my-4 pb-4">
             <div class="container mt-4 py-4">
             <h2 class="text-center fs-2 text-danger " >Latest Products</h2>
@@ -109,7 +107,9 @@ include("connection.php");
                         </div>
                        </section>
 
-<!-- <---featured-->
+<!-- latest section ends  -->
+
+<!---featured section starts-->
                    <section id="featured" class="my-4 pb-4"> 
                       <div class="container mt-4">
                         <h2 class="text-center fs-3 text-danger p-3">Featured Products</h2>
@@ -151,13 +151,15 @@ include("connection.php");
                         </div>
                         </section>
                 
-                            
-                            <!-- <---pagination--->
+                           <!--- featured section ends  -->
+ 
+                            <!--- pagination section starts--->
 <section id="pagination" class="section-p1">
     <a href="#">1</a>
     <a href="#">2</a>
     <a href="#"><i class="fa-solid fa-arrow-right"></i></a>
     </section>
+<!-- pagination section ends  -->
 
     <nav class="navbar navbar-danger bg-danger p-4">
   <div class="container-fluid">
