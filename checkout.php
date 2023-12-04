@@ -2,7 +2,7 @@
    include("../fragment/header.php");
    ?>
 
-<!-- <?php
+ <?php
 session_start();
 
  if( !empty($_SESSION['cart']) && (isset($_POST['checkout']))){
@@ -10,8 +10,8 @@ session_start();
 }else{
   header('location: index.php');
 }
-?> -->
-
+?>
+<!-- checkout section starts  -->
 <section class="my-3 py-3">
 <div class="container mt-2 pt-2">
  <h1 class="text-center form-weight-bold" >Check Out</h1> 
@@ -40,8 +40,7 @@ session_start();
     <label for="email" class="form-label">Email address</label>
     <input type="email" name="Email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
   </div>
-  <button type="submit" class="btn btn-primary">Place Order</button>
- 
+  <button type="submit" class="btn btn-primary">Place Order</button> 
 </div>
 </div>
 </form>
